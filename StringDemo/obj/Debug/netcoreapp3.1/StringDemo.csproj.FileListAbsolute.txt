@@ -1,0 +1,13 @@
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.exe
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.deps.json
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.json
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.dev.json
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.dll
+C:\Users\deept\source\repos\part1\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.pdb
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfoInputs.cache
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfo.cs
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.dll
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.pdb
+C:\Users\deept\source\repos\part1\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.genruntimeconfig.cache
